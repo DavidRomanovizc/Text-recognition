@@ -13,4 +13,5 @@ PyTorch implementation of a Deep Neural Network for text recognition. \
 It is based on the:
 "An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition" : https://arxiv.org/abs/1507.05717
 
-![image](https://user-images.githubusercontent.com/72649244/149961073-de3040ee-6650-46e0-9911-d0f8881ca442.png)
+![image](https://user-images.githubusercontent.com/72649244/156899625-f6adf7c1-070f-4d3b-8607-0591a2510aca.png)
+
